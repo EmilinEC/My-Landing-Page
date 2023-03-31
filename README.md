@@ -1,3 +1,3 @@
-# Meu Site Pessoal
+Site Profissional
 
-Desenvolvi  meu site pessoaal utilizando  HTML5 e CSS3.
+Desenvolvido com HTML5 e CSS3.
