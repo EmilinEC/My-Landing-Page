@@ -1,3 +1,3 @@
-# My Landing Page
+# Meu Site Pessoal
 
-Desenvolvi uma Landing Page com minhas informações profissionais utilizando HTML5 e CSS3. 
+Desenvolvi  meu site pessoaal utilizando  HTML5 e CSS3.
